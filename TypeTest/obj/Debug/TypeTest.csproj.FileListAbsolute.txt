@@ -1,0 +1,14 @@
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\bin\Debug\TypeTest.exe.config
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\bin\Debug\TypeTest.exe
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\bin\Debug\TypeTest.pdb
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.csprojAssemblyReference.cache
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.Form1.resources
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.Properties.Resources.resources
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.csproj.GenerateResource.cache
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.csproj.CoreCompileInputs.cache
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.exe
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.pdb
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.Form2.resources
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\bin\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\bin\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\TypeTest\obj\Debug\TypeTest.csproj.CopyComplete
