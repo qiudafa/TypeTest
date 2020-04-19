@@ -1,0 +1,12 @@
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\bin\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CopyComplete
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\WindowsFormsApp2\obj\Debug\TypeTest.Form2.resources

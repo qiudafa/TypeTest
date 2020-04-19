@@ -1,6 +1,11 @@
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\bin\Debug\INIhelper.dll
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\bin\Debug\INIhelper.pdb
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\obj\Debug\INIhelper.csprojAssemblyReference.cache
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\obj\Debug\INIhelper.csproj.CoreCompileInputs.cache
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\obj\Debug\INIhelper.dll
-C:\Users\qiuda\Desktop\py\code\TypeTest\TypeTest\INIhelper\obj\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\INIhelper\bin\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\INIhelper\bin\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\INIhelper\obj\Debug\INIhelper.csproj.CoreCompileInputs.cache
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\INIhelper\obj\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\Type\WindowsFormsApp1\INIhelper\obj\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\bin\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\bin\Debug\INIhelper.pdb
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\obj\Debug\INIhelper.csprojAssemblyReference.cache
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\obj\Debug\INIhelper.csproj.CoreCompileInputs.cache
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\obj\Debug\INIhelper.dll
+C:\Users\qiuda\Desktop\py\code\TypeTest\INIhelper\obj\Debug\INIhelper.pdb
